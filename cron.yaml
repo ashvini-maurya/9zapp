@@ -1,0 +1,5 @@
+cron:
+#- description: Mail from 9zapp containing total likes, comments, unlikes and upload of last hour.
+#  url: /errorfinder/
+#  schedule: every 1 minutes
+#  timezone: Asia/Kolkata
