@@ -6,7 +6,7 @@ threadsafe: true
 handlers:
 - url: /.*
   script: 9zapp.app
-  #login: admin
+  ##login: admin
   #secure: always
 
 #handlers:
