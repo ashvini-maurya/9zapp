@@ -6,3 +6,5 @@ The app is based upon webapp2. In this app, user can do the following things:
           
           Anyone can also like or dislike and comment over those contents.
           
+          The running app is at https://graphic-pattern-118705.appspot.com/
+          
